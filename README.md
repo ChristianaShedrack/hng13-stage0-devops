@@ -28,6 +28,4 @@ By the end of this assignment, I should be able to:
 
 ## Project Setup
 1. **Fork** the original repository: `hng13-stage0-devops`  
-2. **Clone** your fork to your local machine:  
-   ```bash
-   git clone https://github.com/<your-username>/hng13-stage0-devops.git
+
